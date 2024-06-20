@@ -1,4 +1,3 @@
-package exercice2;
 
 import java.time.LocalDate;
 
